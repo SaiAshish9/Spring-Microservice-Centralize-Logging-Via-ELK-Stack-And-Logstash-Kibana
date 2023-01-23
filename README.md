@@ -23,3 +23,13 @@ bin/elasticsearch-create-enrollment-token --scope kibana
 eyJ2ZXIiOiI4LjYuMCIsImFkciI6WyIxOTIuMTY4LjI5LjQ2OjkyMDAiXSwiZmdyIjoiOWI0YTBlYzFlNTU1NzVkOWQyYzBhN2ZmMDkxMTJhMjRkMjY1MWIxNWI5M2RjZjhlMjAzOTkyNTFiNGNmMzAyMiIsImtleSI6Inh2TXo0SVVCSnppdTdKdXJSSGsxOmRCMVZXWW9MUUk2NlhHVGZYaFVFOUEifQ==
 
 ```
+
+<img width="1792" alt="Screenshot 2023-01-24 at 1 27 05 AM" src="https://user-images.githubusercontent.com/43849911/214137146-7cc224e5-e9bc-4a77-a39c-5678a6b542b0.png">
+
+<img width="767" alt="Screenshot 2023-01-24 at 1 27 45 AM" src="https://user-images.githubusercontent.com/43849911/214137333-cba8b53c-efc3-40e6-bb34-b700cdefb86a.png">
+
+<img width="1625" alt="Screenshot 2023-01-24 at 1 28 22 AM" src="https://user-images.githubusercontent.com/43849911/214137418-99c7b9c5-5ca4-4343-9f06-b8f65a7a5907.png">
+
+<img width="1003" alt="Screenshot 2023-01-24 at 1 28 47 AM" src="https://user-images.githubusercontent.com/43849911/214137508-9987c6bb-62f5-4697-9c30-e714cc4d8127.png">
+
+<img width="1791" alt="Screenshot 2023-01-24 at 1 29 20 AM" src="https://user-images.githubusercontent.com/43849911/214137603-611fea55-33fe-4cdb-9a39-c6f1096b36fb.png">

@@ -34,8 +34,6 @@ eyJ2ZXIiOiI4LjYuMCIsImFkciI6WyIxOTIuMTY4LjI5LjQ2OjkyMDAiXSwiZmdyIjoiOWI0YTBlYzFl
 
 <img width="1791" alt="Screenshot 2023-01-24 at 1 29 20 AM" src="https://user-images.githubusercontent.com/43849911/214137603-611fea55-33fe-4cdb-9a39-c6f1096b36fb.png">
 
-<img width="589" alt="Screenshot 2023-01-24 at 1 30 44 AM" src="https://user-images.githubusercontent.com/43849911/214137904-e719a980-5a35-4caa-b37a-139741c32407.png">
-
 <img width="562" alt="Screenshot 2023-01-24 at 1 32 15 AM" src="https://user-images.githubusercontent.com/43849911/214138247-e087760b-4116-4907-8557-5515dd223365.png">
 
 

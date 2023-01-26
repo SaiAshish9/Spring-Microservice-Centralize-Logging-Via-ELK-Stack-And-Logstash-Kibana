@@ -15,6 +15,28 @@ elastic
 ptCdqQ+I7OhIRvNe3t-_
 ```
 
+```
+curl --cacert config/certs/http_ca.crt -u elastic https://localhost:9200
+Enter host password for user 'elastic':
+{
+  "name" : "MBP-C02F5ASXMD6M",
+  "cluster_name" : "elasticsearch",
+  "cluster_uuid" : "jEmM_gG1Sl2_Z8qpTqmuaw",
+  "version" : {
+    "number" : "8.6.0",
+    "build_flavor" : "default",
+    "build_type" : "tar",
+    "build_hash" : "f67ef2df40237445caa70e2fef79471cc608d70d",
+    "build_date" : "2023-01-04T09:35:21.782467981Z",
+    "build_snapshot" : false,
+    "lucene_version" : "9.4.2",
+    "minimum_wire_compatibility_version" : "7.17.0",
+    "minimum_index_compatibility_version" : "7.0.0"
+  },
+  "tagline" : "You Know, for Search"
+}
+```
+
 <img width="639" alt="Screenshot 2023-01-26 at 5 22 48 PM" src="https://user-images.githubusercontent.com/43849911/214828895-1f3129ce-a214-4d81-bc1b-6de66f8c8259.png">
 
 <img width="461" alt="Screenshot 2023-01-24 at 12 56 27 AM" src="https://user-images.githubusercontent.com/43849911/214131359-e101a8bb-f8e5-47ef-8568-7e7f30c2c221.png">

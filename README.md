@@ -10,6 +10,9 @@ https://www.elastic.co/downloads/elasticsearch
 
 <img width="1792" alt="Screenshot 2023-01-26 at 5 24 52 PM" src="https://user-images.githubusercontent.com/43849911/214829270-c0489aaa-665d-423d-b73a-1c1e3baa0228.png">
 
+<img width="439" alt="Screenshot 2023-01-26 at 5 38 43 PM" src="https://user-images.githubusercontent.com/43849911/214831813-66d19119-213a-4a9c-922e-ccb7c5b54acb.png">
+
+
 ```
 elastic
 ptCdqQ+I7OhIRvNe3t-_

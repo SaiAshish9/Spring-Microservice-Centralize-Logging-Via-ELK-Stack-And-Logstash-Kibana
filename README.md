@@ -82,3 +82,5 @@ New value: tEkqcmVSrkgi*I8ciS6+
   ⁃ Start Elasticsearch with `bin/elasticsearch --enrollment-token <token>`, using the enrollment token that you generated.
 ```
 
+
+<img width="697" alt="Screenshot 2023-01-26 at 4 17 14 PM" src="https://user-images.githubusercontent.com/43849911/214817337-1c46e79c-3be3-4ac2-8f43-5b89319e626e.png">

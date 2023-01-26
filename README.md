@@ -9,6 +9,8 @@
 
 <img width="954" alt="Screenshot 2023-01-26 at 5 45 49 PM" src="https://user-images.githubusercontent.com/43849911/214832982-aad4ec6e-22b7-4c6b-ad8f-aa7ff16cd2d2.png">
 
+<img width="741" alt="Screenshot 2023-01-26 at 7 54 03 PM" src="https://user-images.githubusercontent.com/43849911/214860273-1fd2b114-72d5-4cdd-bfbc-a26120bca43c.png">
+
 https://www.elastic.co/downloads/elasticsearch
 
 <img width="733" alt="Screenshot 2023-01-26 at 5 23 39 PM" src="https://user-images.githubusercontent.com/43849911/214829074-925d6106-a04d-419b-ab18-0794e8e7529d.png">

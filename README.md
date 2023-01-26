@@ -24,32 +24,6 @@ eyJ2ZXIiOiI4LjYuMCIsImFkciI6WyIxOTIuMTY4LjI5LjQ2OjkyMDAiXSwiZmdyIjoiOWI0YTBlYzFl
 
 ```
 
-```
-✅ Elasticsearch security features have been automatically configured!
-✅ Authentication is enabled and cluster connections are encrypted.
-
-ℹ️  Password for the elastic user (reset with `bin/elasticsearch-reset-password -u elastic`):
-  ptCdqQ+I7OhIRvNe3t-_
-
-ℹ️  HTTP CA certificate SHA-256 fingerprint:
-  7c4b7a190c7e3ccaec121d44058b0b367a7aa99c4a1a6ccd5432436e8beba4e6
-
-ℹ️  Configure Kibana to use this cluster:
-• Run Kibana and click the configuration link in the terminal when Kibana starts.
-• Copy the following enrollment token and paste it into Kibana in your browser (valid for the next 30 minutes):
-  eyJ2ZXIiOiI4LjYuMCIsImFkciI6WyIxOTIuMTY4LjM0LjE5Mjo5MjAwIl0sImZnciI6IjdjNGI3YTE5MGM3ZTNjY2FlYzEyMWQ0NDA1OGIwYjM2N2E3YWE5OWM0YTFhNmNjZDU0MzI0MzZlOGJlYmE0ZTYiLCJrZXkiOiJNZHFsN1lVQllxRkprcDF3c0FZVDpJb2ExV0RKZFNiV0tzdkNLcHd0NGtRIn0=
-
-ℹ️  Configure other nodes to join this cluster:
-• On this node:
-  ⁃ Create an enrollment token with `bin/elasticsearch-create-enrollment-token -s node`.
-  ⁃ Uncomment the transport.host setting at the end of config/elasticsearch.yml.
-  ⁃ Restart Elasticsearch.
-• On other nodes:
-  ⁃ Start Elasticsearch with `bin/elasticsearch --enrollment-token <token>`, using the enrollment token that you generated.
-```
-
-
-
 <img width="1441" alt="Screenshot 2023-01-24 at 2 04 44 AM" src="https://user-images.githubusercontent.com/43849911/214144226-ace2c95c-4091-4fc2-a534-dfceda34cf9d.png">
 
 
@@ -80,4 +54,29 @@ New value: tEkqcmVSrkgi*I8ciS6+
 ```
 
 <img width="675" alt="Screenshot 2023-01-26 at 4 06 05 PM" src="https://user-images.githubusercontent.com/43849911/214815505-525b1149-3707-4f32-ac3b-1fad7d8c6005.png">
+
+
+```
+✅ Elasticsearch security features have been automatically configured!
+✅ Authentication is enabled and cluster connections are encrypted.
+
+ℹ️  Password for the elastic user (reset with `bin/elasticsearch-reset-password -u elastic`):
+  ptCdqQ+I7OhIRvNe3t-_
+
+ℹ️  HTTP CA certificate SHA-256 fingerprint:
+  7c4b7a190c7e3ccaec121d44058b0b367a7aa99c4a1a6ccd5432436e8beba4e6
+
+ℹ️  Configure Kibana to use this cluster:
+• Run Kibana and click the configuration link in the terminal when Kibana starts.
+• Copy the following enrollment token and paste it into Kibana in your browser (valid for the next 30 minutes):
+  eyJ2ZXIiOiI4LjYuMCIsImFkciI6WyIxOTIuMTY4LjM0LjE5Mjo5MjAwIl0sImZnciI6IjdjNGI3YTE5MGM3ZTNjY2FlYzEyMWQ0NDA1OGIwYjM2N2E3YWE5OWM0YTFhNmNjZDU0MzI0MzZlOGJlYmE0ZTYiLCJrZXkiOiJNZHFsN1lVQllxRkprcDF3c0FZVDpJb2ExV0RKZFNiV0tzdkNLcHd0NGtRIn0=
+
+ℹ️  Configure other nodes to join this cluster:
+• On this node:
+  ⁃ Create an enrollment token with `bin/elasticsearch-create-enrollment-token -s node`.
+  ⁃ Uncomment the transport.host setting at the end of config/elasticsearch.yml.
+  ⁃ Restart Elasticsearch.
+• On other nodes:
+  ⁃ Start Elasticsearch with `bin/elasticsearch --enrollment-token <token>`, using the enrollment token that you generated.
+```
 

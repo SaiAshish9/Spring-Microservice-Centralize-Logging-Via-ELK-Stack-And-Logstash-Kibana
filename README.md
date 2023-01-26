@@ -1,5 +1,13 @@
 <img width="1246" alt="Screenshot 2023-01-23 at 1 15 34 AM" src="https://user-images.githubusercontent.com/43849911/213936895-cd4d7bd3-ac55-4bfd-aa22-c52ab56a3435.png">
 
+<img width="761" alt="Screenshot 2023-01-26 at 9 08 32 PM" src="https://user-images.githubusercontent.com/43849911/214879422-053be5fd-eb5e-48a2-a233-ce53bccbeb73.png">
+
+<img width="1059" alt="Screenshot 2023-01-26 at 9 09 02 PM" src="https://user-images.githubusercontent.com/43849911/214879581-af73f736-4f8c-42d2-bc3e-d016adc209bb.png">
+
+<img width="1762" alt="Screenshot 2023-01-26 at 9 17 48 PM" src="https://user-images.githubusercontent.com/43849911/214881913-a56e9e6d-9b1a-47f6-8200-cbe40287dcd3.png">
+
+<img width="1199" alt="Screenshot 2023-01-26 at 9 07 29 PM" src="https://user-images.githubusercontent.com/43849911/214879249-c3e01644-5c0a-4052-b3a4-7f73b268dcab.png">
+
 <img width="1492" alt="Screenshot 2023-01-26 at 5 46 22 PM" src="https://user-images.githubusercontent.com/43849911/214833068-9662affa-cde8-4015-87a6-ffa95d863838.png">
 
 <img width="972" alt="Screenshot 2023-01-26 at 8 26 04 PM" src="https://user-images.githubusercontent.com/43849911/214868524-a200ba91-1a3b-41c4-8472-216a79ec29c1.png">

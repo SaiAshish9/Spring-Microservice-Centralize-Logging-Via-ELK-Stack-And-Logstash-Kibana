@@ -99,4 +99,9 @@ New value: tEkqcmVSrkgi*I8ciS6+
 
 <img width="511" alt="Screenshot 2023-01-26 at 4 26 09 PM" src="https://user-images.githubusercontent.com/43849911/214819058-28ee5ac7-84e8-4fbe-9a58-0a5c578ac42e.png">
 
+https://www.elastic.co/guide/en/elasticsearch/reference/current/configuring-stack-security.html
+https://www.elastic.co/downloads/elasticsearch
 
+<img width="701" alt="Screenshot 2023-01-26 at 4 27 55 PM" src="https://user-images.githubusercontent.com/43849911/214819394-5a5d4ba7-f915-4e65-9bde-49e4f59f3290.png">
+
+<img width="600" alt="Screenshot 2023-01-26 at 4 34 06 PM" src="https://user-images.githubusercontent.com/43849911/214820510-244b0b67-6e17-44a7-a6e5-c81f3c663223.png">

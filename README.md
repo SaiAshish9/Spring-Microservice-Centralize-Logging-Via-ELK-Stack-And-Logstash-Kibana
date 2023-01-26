@@ -18,6 +18,8 @@ https://www.elastic.co/downloads/elasticsearch
 
 <img width="698" alt="Screenshot 2023-01-26 at 4 12 43 PM" src="https://user-images.githubusercontent.com/43849911/214816556-83609b48-1c23-4a93-b622-c14203e5d953.png">
 
+<img width="1030" alt="Screenshot 2023-01-26 at 4 17 56 PM" src="https://user-images.githubusercontent.com/43849911/214817466-13b23f6e-6455-4506-bb6a-c2c81aaf2088.png">
+
 ```
 
 bin/elasticsearch-create-enrollment-token --scope kibana
@@ -84,3 +86,17 @@ New value: tEkqcmVSrkgi*I8ciS6+
 
 
 <img width="697" alt="Screenshot 2023-01-26 at 4 17 14 PM" src="https://user-images.githubusercontent.com/43849911/214817337-1c46e79c-3be3-4ac2-8f43-5b89319e626e.png">
+
+<img width="937" alt="Screenshot 2023-01-26 at 4 18 29 PM" src="https://user-images.githubusercontent.com/43849911/214817562-d1e447ea-f568-417a-90b7-fbc23bcfdaca.png">
+
+<img width="590" alt="Screenshot 2023-01-26 at 4 19 41 PM" src="https://user-images.githubusercontent.com/43849911/214817810-b4adfa4c-e4f2-4c3b-8c20-4d63e0aa9adc.png">
+
+<img width="605" alt="Screenshot 2023-01-26 at 4 19 55 PM" src="https://user-images.githubusercontent.com/43849911/214817838-55ae9616-b9b1-44b6-bf48-6e2293ecad14.png">
+
+<img width="591" alt="Screenshot 2023-01-26 at 4 20 24 PM" src="https://user-images.githubusercontent.com/43849911/214817949-1299be0f-2147-4211-84fc-77703c5db62e.png">
+
+<img width="501" alt="Screenshot 2023-01-26 at 4 23 26 PM" src="https://user-images.githubusercontent.com/43849911/214818558-9864f1fb-4a3e-4e6a-a54d-891a69ae6331.png">
+
+<img width="511" alt="Screenshot 2023-01-26 at 4 26 09 PM" src="https://user-images.githubusercontent.com/43849911/214819058-28ee5ac7-84e8-4fbe-9a58-0a5c578ac42e.png">
+
+

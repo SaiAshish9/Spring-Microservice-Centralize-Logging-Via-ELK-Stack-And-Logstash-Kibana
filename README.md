@@ -110,3 +110,7 @@ https://www.elastic.co/downloads/elasticsearch
 
 <img width="1155" alt="Screenshot 2023-01-26 at 4 50 42 PM" src="https://user-images.githubusercontent.com/43849911/214823535-2f8a0443-6049-4045-9426-49907a2ca99f.png">
 
+```
+bin/elasticsearch-create-enrollment-token -s kibana
+eyJ2ZXIiOiI4LjYuMCIsImFkciI6WyIxMjcuMC4wLjE6OTIwMCIsIls6OjFdOjkyMDAiXSwiZmdyIjoiN2M0YjdhMTkwYzdlM2NjYWVjMTIxZDQ0MDU4YjBiMzY3YTdhYTk5YzRhMWE2Y2NkNTQzMjQzNmU4YmViYTRlNiIsImtleSI6ImJ1X3I3WVVCYS1mTmU2bGdpVWF3OkhNME9WNDlGUU9hNGlObFB2VDdBemcifQ==
+```

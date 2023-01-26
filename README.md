@@ -16,6 +16,8 @@ https://www.elastic.co/downloads/elasticsearch
 
 <img width="775" alt="Screenshot 2023-01-24 at 1 25 42 AM" src="https://user-images.githubusercontent.com/43849911/214136885-f5acd202-2c28-4e2a-8df7-83d608273f8c.png">
 
+<img width="698" alt="Screenshot 2023-01-26 at 4 12 43 PM" src="https://user-images.githubusercontent.com/43849911/214816556-83609b48-1c23-4a93-b622-c14203e5d953.png">
+
 ```
 
 bin/elasticsearch-create-enrollment-token --scope kibana

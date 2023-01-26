@@ -6,6 +6,8 @@
 
 https://www.elastic.co/downloads/elasticsearch
 
+<img width="733" alt="Screenshot 2023-01-26 at 5 23 39 PM" src="https://user-images.githubusercontent.com/43849911/214829074-925d6106-a04d-419b-ab18-0794e8e7529d.png">
+
 ![Uploading Screenshot 2023-01-26 at 5.21.20 PM.png…]()
 
 <img width="639" alt="Screenshot 2023-01-26 at 5 22 48 PM" src="https://user-images.githubusercontent.com/43849911/214828895-1f3129ce-a214-4d81-bc1b-6de66f8c8259.png">

@@ -6,6 +6,8 @@
 module elasticsearch is configured but has no enabled filesets
 ```
 
+<img width="1784" alt="Screenshot 2023-01-26 at 10 08 48 PM" src="https://user-images.githubusercontent.com/43849911/214895405-e2d4f1bd-7c42-4d62-b631-9d0204dd2939.png">
+
 <img width="1246" alt="Screenshot 2023-01-23 at 1 15 34 AM" src="https://user-images.githubusercontent.com/43849911/213936895-cd4d7bd3-ac55-4bfd-aa22-c52ab56a3435.png">
 
 <img width="761" alt="Screenshot 2023-01-26 at 9 08 32 PM" src="https://user-images.githubusercontent.com/43849911/214879422-053be5fd-eb5e-48a2-a233-ce53bccbeb73.png">

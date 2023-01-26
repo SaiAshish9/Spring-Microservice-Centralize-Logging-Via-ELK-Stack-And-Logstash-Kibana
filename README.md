@@ -2,6 +2,7 @@
 
 <img width="1492" alt="Screenshot 2023-01-26 at 5 46 22 PM" src="https://user-images.githubusercontent.com/43849911/214833068-9662affa-cde8-4015-87a6-ffa95d863838.png">
 
+<img width="972" alt="Screenshot 2023-01-26 at 8 26 04 PM" src="https://user-images.githubusercontent.com/43849911/214868524-a200ba91-1a3b-41c4-8472-216a79ec29c1.png">
 
 <img width="1247" alt="Screenshot 2023-01-23 at 1 29 20 AM" src="https://user-images.githubusercontent.com/43849911/213937536-8772630b-c734-4066-98ca-30c0dbb23cb1.png">
 
